@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\DSA LAB 10\Debug\DSA LAB 10.exe
+C:\Users\HP\source\repos\DSA LAB 10\Debug\DSA LAB 10.pdb

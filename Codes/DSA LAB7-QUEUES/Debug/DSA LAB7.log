@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\HP\source\repos\DSA LAB7\Source1.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSA LAB7.vcxproj -> C:\Users\HP\source\repos\DSA LAB7\Debug\DSA LAB7.exe

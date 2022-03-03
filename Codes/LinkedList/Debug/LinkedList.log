@@ -1,0 +1,3 @@
+﻿  Reverse LL.cpp
+C:\Users\HP\source\repos\LinkedList\Reverse LL.cpp(96,6): warning C4101: 'pos': unreferenced local variable
+  LinkedList.vcxproj -> C:\Users\HP\source\repos\LinkedList\Debug\LinkedList.exe
